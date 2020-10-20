@@ -1,0 +1,14 @@
+{
+  "name": "monorepo-pnpm-webpack-typescript",
+  "private": true,
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "pnpm": ">=5"
+  },
+  "devDependencies": {
+    "@foobar/tsconfig": "workspace:*",
+    "typescript": "^4.0.3"
+  }
+}
